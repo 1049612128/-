@@ -11,3 +11,4 @@ node2.next=node3;
 console.log(node1.data)//1
 console.log(node1.next.data)//2
 console.log(node1.next.next.data)//3
+module.exports=Node;
